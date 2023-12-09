@@ -36,9 +36,9 @@ user in the form of a main menu are as follows:
         if it is the first option selected when starting the program. 
 
   (e) Search for Book(s) 
-      o Prompts for the ISBN, author, and title. 
-      o Display the information of a particular book using the information provided. 
+      • Prompts for the ISBN, author, and title. 
+      • Display the information of a particular book using the information provided. 
       
   (f) Exit  
-      o Stop the execution of the program.  
-      o The program will write the updated data into books_StudentID.txt. 
+      • Stop the execution of the program.  
+      • The program will write the updated data into books_StudentID.txt. 
