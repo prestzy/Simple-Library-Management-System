@@ -46,7 +46,7 @@ def Delete_Book():
     try:
         # Ask if user would like to go back to Main Menu?
         back = input ("press 'q' if you would like to return or \n" +
-                        "Enter any other alphabet if you would like to continue: ")
+                      "Enter any other alphabet if you would like to continue: ")
         
         if back.lower() == 'q':
             main()
@@ -229,7 +229,7 @@ def Display_Book():
 def Search_Book():
     # Prompt user if he wants to go back to main menu
     back = input ("press 'q' if you would like to return or \n" +
-                            "Enter any other alphabet if you would like to continue: ")
+                  "Enter any other alphabet if you would like to continue: ")
     if back.lower() == 'q':
         main()
     else:
