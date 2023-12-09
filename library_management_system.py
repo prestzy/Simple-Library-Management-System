@@ -144,7 +144,7 @@ def Edit_Book():
 
         elif choice == '2':
             # Ask the user to enter the old and new author and title
-            old_author_title = input("Enter the author and title of the book you want to edit (format: Preston, Me in wonderland): ")
+            old_author_title = input("Enter the author and title of the book you want to edit (format: Preston,Me in wonderland): ")
             new_author = input("Enter the new author's name: ")
             new_title = input("Enter the new book's title: ")
 
