@@ -1,0 +1,20 @@
+9781981472130,Friedrich Nietzsche,Thus Spoke Zarathustra,Icon Books,Philosophy,1883,02-01-2020,read
+9780385260329,Socrates,The Trial of Socrates,Portfolio UK,Philosophy,399 BC,02-01-2020,to-read
+9780226026756,Aristotle,Nicomachean Ethics,John Wiley,Philosophy,350 BC,12-08-2016,read
+9780062018205,Richard Feynman,Surely You're Joking Mr. Feynman!,Harper Collins,Physics,1985,03-06-2019,read
+9780008327613,Euclid,Elements,Random House,Mathematics,-300,11-05-2021,to-read
+9780525538349,Walter Isaacson,Steve Jobs,Penguin LCC,Biography,2011,21-09-2022,to-read
+9781785785720,Friedrich Nietzsche,Beyond Good and Evil,Icon Books,Philosophy,1886,02-01-2020,read
+9780241976631,Socrates,Crito,Portfolio UK,Philosophy,399 BC,02-01-2020,to-read
+9781119055809,Aristotle,Politics,John Wiley,Politics,350 BC,12-08-2016,read
+9780062018206,Richard Feynman,The Feynman Lectures On Physics,Harper Collins,Physics,1988,03-06-2019,read
+9780008327614,Euclid,Data,Random House,Mathematics,-300,11-05-2021,to-read
+9780525538350,Walter Isaacson,Einstein: His Life and Universe,Penguin LCC,Biography,2007,21-09-2022,to-read
+9781785785731,Friedrich Nietzsche,The Gay Science,Icon Books,Philosophy,1882,02-01-2020,read
+9780241976632,Socrates,Phaedrus,Portfolio UK,Philosophy,370 BC,02-01-2020,to-read
+9781119055810,Aristotle,Metaphysics,John Wiley,Philosophy,350 BC,12-08-2016,read
+9780062018207,Richard Feynman,Six Easy Pieces,Harper Collins,Physics,1985,03-06-2019,read
+9780008327615,Euclid,On the Sphere and Cylinder,Random House,Mathematics,-300,11-05-2021,to-read
+9780525538361,Walter Isaacson,Leonardo da Vinci,Penguin LCC,Biography,2017,21-09-2022,to-read
+9781785785742,Friedrich Nietzsche,The Birth of Tragedy,Icon Books,Philosophy,1872,02-01-2020,read
+9780241976633,Socrates,Theaetetus,Portfolio UK,Philosophy,369 BC,02-01-2020,to-read
