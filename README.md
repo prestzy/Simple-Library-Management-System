@@ -16,23 +16,23 @@ b) Program Functionality
 user in the form of a main menu are as follows: 
 
   (a) Add Book Record(s) 
-      o Add book information(s) into the system.
-      o Within this submenu, the user must be able to add information of single/multiple books.
+      • Add book information(s) into the system.
+      • Within this submenu, the user must be able to add information of single/multiple books.
       
   (b) Delete Book Record(s)    
-      o Delete book information(s) in the system.  
-      o Within this submenu, the user must be able to delete information of single/multiple books. 
+      • Delete book information(s) in the system.  
+      • Within this submenu, the user must be able to delete information of single/multiple books. 
       
   (c) Update/Edit Book Record(s) 
-      o Prompts the user for the ISBN or author and title.  
-      o If there are matching records found, prompt the user to enter the new information for the book. 
-      o Update the book record(s) according to the new information provided.  
-      o Within this submenu, the user must be able to update information of single/multiple books
+      • Prompts the user for the ISBN or author and title.  
+      • If there are matching records found, prompt the user to enter the new information for the book. 
+      • Update the book record(s) according to the new information provided.  
+      • Within this submenu, the user must be able to update information of single/multiple books
 
   (d) Display  
-      o Display all the books that are currently in the system. 
-      o The display should contain appropriate headings for each column. 
-      o Data from books_StudentID.txt must be read and stored in the program when the program first runs so that all the book information previously stored in the text file will be displayed 
+      • Display all the books that are currently in the system. 
+      • The display should contain appropriate headings for each column. 
+      • Data from books_StudentID.txt must be read and stored in the program when the program first runs so that all the book information previously stored in the text file will be displayed 
         if it is the first option selected when starting the program. 
 
   (e) Search for Book(s) 
