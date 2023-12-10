@@ -185,6 +185,10 @@ def Edit_Book():
 
             
 def Display_Book():
+    '''
+    This function displays all the book lists that are stored in the text file
+    Function: access and read text file, and print the book list
+    '''
     all_books = []
     # Reading books from file
     filename = "Assignment\\books_StudentID.txt"
@@ -227,6 +231,9 @@ def Display_Book():
 
 
 def Search_Book():
+    '''
+    This Function is to let users to find particular book/author
+    '''
     # Prompt user if he wants to go back to main menu
     back = input ("press 'q' if you would like to return or \n" +
                   "Enter any other alphabet if you would like to continue: ")
