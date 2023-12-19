@@ -260,7 +260,7 @@ def Search_Book():
                 line_isbn = parts[0].strip()    # assign every index 0(isbn) to new var
 
                 # Compare the isbn 
-                if isbn.lower() == line_isbn.lower(): 
+                if isbn == line_isbn: 
                     book_info = (
                         f"\nISBN: {parts[0].strip()}"
                         f"\nAuthor: {parts[1].strip()}"
