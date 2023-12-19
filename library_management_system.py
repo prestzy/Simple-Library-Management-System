@@ -1,5 +1,3 @@
-import os
-
 def Add_Book():
     '''
     This function task is to add new book's informations into book list
@@ -408,7 +406,6 @@ def main():
             print("Invalid choice. Please enter a number between 1 and 6.")
 
 # Execute the main function
-if __name__ == "__main__":
-    main()
+ main()
 
 
